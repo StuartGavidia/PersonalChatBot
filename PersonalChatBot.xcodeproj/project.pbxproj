@@ -57,8 +57,6 @@
 		96A685192A0CAF8700FB5538 /* PersonalChatBot */ = {
 			isa = PBXGroup;
 			children = (
-				96A685292A0CB00D00FB5538 /* Models */,
-				96A685282A0CB00300FB5538 /* Views */,
 				96A6851A2A0CAF8700FB5538 /* PersonalChatBotApp.swift */,
 				96A6852A2A0F1F3000FB5538 /* Constants.swift */,
 				96A6851C2A0CAF8700FB5538 /* ContentView.swift */,
@@ -75,20 +73,6 @@
 				96A685212A0CAF8900FB5538 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		96A685282A0CB00300FB5538 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		96A685292A0CB00D00FB5538 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
